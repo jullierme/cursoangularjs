@@ -1,1 +1,1 @@
-ECHO est� ativado.
+projeto java com spring mvc configurado para testar requisições rest
