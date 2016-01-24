@@ -1,0 +1,6 @@
+src/main/webapp/bower_components/
+src/main/webapp/node_modules/
+src/main/webapp/.idea/
+src/main/webapp/.idea/
+src/main/webapp/build/
+target/
